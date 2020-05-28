@@ -1,12 +1,12 @@
-<h1 align="center"> File Uploader </h1>
+<h1 align="center"> Image Uploader </h1>
 <p align="center"> 🚀 Aplicação simples para fazer upload de imagens para um backend 🚀</p>
 
 ## :computer: Ferramentas Utilizadas
 
-- ![NodeJS](https://cdn.svgporn.com/logos/nodejs-icon.svg =30x20) **Node Js** — Contrução da api com a framework ExpressJS 🔨
-- ![VueJs](https://cdn.svgporn.com/logos/vue.svg =30x20) **Vue Js** — Desenvolvimento do Frontend 🔥
-- ![Sass](https://cdn.svgporn.com/logos/sass.svg =30x20) **Sass** — CSS com superpoderes 😁
-- ![MongoDB](https://cdn.svgporn.com/logos/mongodb.svg =30x20) **MongoDB** — Para guardar informação na base de dados 💾
+- <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30" height="20" /> **Node Js** — Contrução da api com a framework ExpressJS 🔨
+- <img src="https://cdn.svgporn.com/logos/vue.svg" width="30" height="20" /> **Vue Js** — Desenvolvimento do Frontend 🔥
+- <img src="https://cdn.svgporn.com/logos/sass.svg" width="30" height="20" /> **Sass** — CSS com superpoderes 😁
+- <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30" height="20" /> **MongoDB** — Para guardar informação na base de dados 💾
 
 ## 🚀 Tecnologias
 
@@ -57,7 +57,5 @@ npm install
 //config o endpoint
 npm serve
 ```
-
----
 
 <p align="center">Feito com 💖 by Eduardo Costa  😍</p>
